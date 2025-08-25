@@ -1,0 +1,9 @@
+telebot
+yfinance
+pandas
+numpy
+flask
+gunicorn
+schedule
+openpyxl
+requests
